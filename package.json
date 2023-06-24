@@ -1,0 +1,18 @@
+{
+  "name": "unit-testing-demo",
+  "version": "1.0.0",
+  "description": "this is demo unit testing",
+  "main": "lab.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "amira",
+  "license": "ISC"
+}
